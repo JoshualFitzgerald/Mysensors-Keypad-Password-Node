@@ -70,7 +70,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2); // I2C address 0x27, 16 column and 2 rows
 #define MY_DEBUG
 #define MY_RF24_IRQ_PIN 19
 #define MY_RX_MESSAGE_BUFFER_FEATURE 
-#define MY_NODE_ID 8 //uncomment this line to assign a static ID
+#define MY_NODE_ID 118 //uncomment this line to assign a static ID
 #define MY_RF24_CE_PIN 49
 #define MY_RF24_CS_PIN 53
 // Enable and select radio type attached
