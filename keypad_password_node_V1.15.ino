@@ -29,7 +29,7 @@
 
 
  -Pins doorsnensor 23,GND
- -Pins motion sensor 23,GND,5V
+ -Pins motion sensor 22,GND,5V
  -Keypad rowpins top to bottom 3,4,5,6 column pins left to right 7,8,9
  -LCD 16x2 I2C SDA20,SCL21,GND,5V
  -NRF24L01 
